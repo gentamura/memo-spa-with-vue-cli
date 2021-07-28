@@ -1,17 +1,17 @@
 <template>
   <div id="app">
     <img alt="Vue logo" src="./assets/logo.png">
-    <Todos />
+    <Memos />
   </div>
 </template>
 
 <script>
-import Todos from './components/Todos.vue';
+import Memos from './components/Memos.vue';
 
 export default {
   name: 'App',
   components: {
-    Todos
+    Memos
   }
 }
 </script>

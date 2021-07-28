@@ -1,4 +1,4 @@
-# todo-spa-with-vue-cli
+# memo-spa-with-vue-cli
 
 ## Project setup
 ```
